@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project is an interactive Excel dashboard analyzing employee salary and distribution by department.
+This project presents an interactive Excel dashboard designed to analyze employee salary and department-wise distribution. It enables quick insights using visualizations and dynamic filtering.
 
 ## Tools Used
 
@@ -30,4 +30,4 @@ This project is an interactive Excel dashboard analyzing employee salary and dis
 
 ## File
 
-* dashboard.xlsx
+* employee-dashboard.xlsx
