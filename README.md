@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+
 # Excel Dashboard Project
 
 ## Overview
